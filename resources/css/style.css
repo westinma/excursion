@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana;
+    font-weight: normal;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.subheading {
+    font-size: 21px;
+    color: gray;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+}
+
+.smallPhone {
+    padding-top: 15px;
+}
